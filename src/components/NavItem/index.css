@@ -1,0 +1,37 @@
+.nav-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #2c0e3a;
+  width: 100vw;
+  height: 90px;
+  padding: 10px;
+}
+.website-logo {
+  height: 50px;
+  margin-left: 40px;
+}
+.score-card-container {
+  display: flex;
+  align-items: center;
+}
+.score {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: 400;
+  margin-right: 20px;
+}
+.timer {
+  height: 30px;
+  width: 30px;
+  margin-left: 25px;
+}
+.timer-section {
+  color: #fec653;
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: 500;
+  margin-left: 10px;
+  margin-right: 40px;
+}
